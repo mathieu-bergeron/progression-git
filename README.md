@@ -53,8 +53,11 @@ NOTE: cet échéancier est sujet à changement
 * Semaine 01:
     * installation
     * analyse des objectifs
+    * familiarisation avec la librairie JGit (https://www.eclipse.org/jgit)
 
 * Semaines 02-03:
+    * conception de la DB
+    * affichage d'une liste de dépôt selon la DB
 
 * Semaines 03-04:
 
