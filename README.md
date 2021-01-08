@@ -56,19 +56,29 @@ NOTE: cet échéancier est sujet à changement
     * familiarisation avec la librairie JGit (https://www.eclipse.org/jgit)
 
 * Semaines 02-03:
-    * conception de la DB
-    * affichage d'une liste de dépôt selon la DB
+    * exploration d'un dépôt Git ave git-web
 
 * Semaines 03-04:
+    * conception de la DB
+    * affichage d'une liste de dépôts selon la DB
 
 * Semaines 05-06:
+    * script pour ajouter de l'info à la DB lors d'un push
 
 * Semaines 07-08:
+    * créations de dépôts git
+    * génération de clés SSH
+
 * Semaines 09-10:
+    * tableau de bord d'un étudiant
 
 * Semaines 11-12:
+    * graphe de progression selon un dépôt Git
+    * envoi de courriel lors de retard
 
 * Semaines 13-14:
+    * automatisation des tests
+    * automatisation de la détection de plagiat
 
 * Semaine 15:
     * finition
