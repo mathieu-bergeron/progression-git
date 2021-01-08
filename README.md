@@ -8,6 +8,21 @@ Application Web pour évaluer la progression des étudiants selon leur dépôt G
 
 * Gestion de dépôt Git pour plusieurs cours
 
+* Tableau de bord du prof
+    * importation de liste de classe via CSV de ColNet
+    * création de un dépôt par
+    * pour chaque cours:
+        * un dépôt git pour le prof
+        * en particulier, le script de validation à lancer pour tester
+          la remise d'un étudiant
+            * p.ex. une tâche Gradle
+* Exploration du dépôt Git (via p.ex. le git-web par défaut)
+
+* Tableau de bord de l'étudiant
+    * liste de dépôts et accès aux indicateurs
+    * configurer et valider mon courriel
+    * ré-envoyer ma clé par courriel
+
 * Se baser sur https://github.com/mathieu-bergeron/aquiletour pour:
     * importation d'une liste de classe vis CSV ColNet
     * le code Web de base
@@ -16,6 +31,8 @@ Application Web pour évaluer la progression des étudiants selon leur dépôt G
 
 
 ### Technologies
+
+Comme `aquiletour`:
 
 * HTML 
 * Typescript
@@ -51,4 +68,5 @@ NOTE: cet échéancier est sujet à changement
 * Semaines 13-14:
 
 * Semaine 15:
+    * finition
 
